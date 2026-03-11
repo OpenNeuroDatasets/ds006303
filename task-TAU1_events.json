@@ -13,7 +13,8 @@
     "Levels": {
       "congruent": "Probe appeares in the location of the angry face after angry-neutral pairs",
       "incongruent": "Probe appeares in the location of the neutral face after angry-neutral pairs",
-      "neutral": "Probe follows neutral-neutral face pairs"
+      "neutral": "Probe follows neutral-neutral face pairs",
+      "error": "incorrect response on previous condition"
     }
   },
   "response_time": {
