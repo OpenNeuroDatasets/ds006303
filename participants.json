@@ -1,0 +1,16 @@
+{
+  "participant_id": {
+    "Description": "OpenNeuro ID of the subject."
+  },
+  "sex": {
+    "Description": "Biological sex assigned at birth.",
+    "Levels": {
+      "M": "Male",
+      "F": "Female",
+    }
+  },
+  "age": {
+    "Description": "Participant's age in years.",
+    "Units": "Years"
+  }
+}
