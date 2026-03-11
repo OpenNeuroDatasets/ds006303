@@ -6,7 +6,7 @@
     "Description": "Biological sex assigned at birth.",
     "Levels": {
       "M": "Male",
-      "F": "Female",
+      "F": "Female"
     }
   },
   "age": {
